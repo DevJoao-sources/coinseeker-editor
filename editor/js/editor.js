@@ -56,9 +56,10 @@ class Editor {
     this.cursorX = 0;
     this.active = false;
     this.logActive = true;
-    this.itemIndex = 1;
+    this.itemIndex = 2;
     this.items = [
       {"ch": " ", "name": "space" },
+      {"ch": "o", "name": "coin" },
       {"ch": "x", "name": "wall" },
       {"ch": "!", "name": "lava 1" },
       {"ch": "|", "name": "lava 2" },

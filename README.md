@@ -1,4 +1,4 @@
-# coinseeker
+# Coinseeker Editor
  Ediror de fases do game Coin Seeker feito em JavaScript por J.Lucas.
 http://joaolucas.xyz/coinseeker/
 
